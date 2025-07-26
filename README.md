@@ -1,36 +1,4 @@
 # Artificial Intelligence ChatBot
-## Hi there 👋
-
-## Project 01.
-### features 1-1.
-#### item 1-1-1.
-#### item 1-1-2.
-#### item 1-1-3.
--
--
--
-
-### features 1-2.
-### features 1-3.
-
-## Project 02.
-
-## Project 03.
-
-## Project 04.
-
-## Project 05.
-
-## Project 06.
-
-## Project 07.
-
-## Project 08.
-
-## Project 09.
-
-## Project 10.
-
 
 <!--
 **MetaStudy999/metastudy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
