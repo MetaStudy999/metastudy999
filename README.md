@@ -2,6 +2,9 @@
 ## Hi there 👋
 
 ## Project 01.
+### features 1-1.
+### features 1-2.
+### features 1-3.
 
 ## Project 02.
 
