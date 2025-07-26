@@ -1,6 +1,6 @@
 ## Hi there 👋
 $HelloWorld = "우리나라 만세"
-![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld}&fontSize=${50}&animation=${twinkling})
+![header](https://capsule-render.vercel.app/api?type=${waving}&color=auto&height=${200}&section=header&text=${HelloWorld!%20!🥳}&fontSize=${50}&animation=${twinkling})
 
 <!--
 **MetaStudy999/metastudy999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
